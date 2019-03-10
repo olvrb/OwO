@@ -15,7 +15,7 @@ static NSArray *suffixes = @[@" :3", @" UwU", @" ʕʘ‿ʘʔ", @" >_>", @" ^_^",
     orig = [orig stringByReplacingOccurrencesOfString:@"no" withString:@"nuu"];
     orig = [orig stringByReplacingOccurrencesOfString:@"have" withString:@"haz"];
     orig = [orig stringByReplacingOccurrencesOfString:@"has" withString:@"haz"];
-    orig = [orig stringByReplacingOccurrencesOfString:@"you" withString:@"uu"];
+    orig = [orig stringByReplacingOccurrencesOfString:@"you" withString:@"wu"];
 
 
     NSString *text = [prefix stringByAppendingString:orig];
